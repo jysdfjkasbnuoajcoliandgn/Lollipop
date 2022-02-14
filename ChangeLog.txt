@@ -1,0 +1,1 @@
+2.0.0: Generator Auto Closes after first run now so it does not clutter desktop, dont worry, codes will automatically begin generating in the background
